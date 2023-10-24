@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mark! <br/> <a href="https://www.linkedin.com/in/mrufin/">Service Desk Technician</a></h1>
 
-<h2>👨‍💻 Personal Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
  
 <h2> 📄 Certifications</h2>
