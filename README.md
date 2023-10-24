@@ -6,8 +6,11 @@
 - <a href='https://www.credly.com/badges/771e50b2-a5ad-4fad-b01c-bb0f98da25e4/linked_in_profile'>CompTIA Security+</a>
 
 <h2>🚩 Capture The Flag Events 🚩</h2>
-- National Cyber League: Fall 2020 Regular Season <br/>
-- National Cyber League: Spring 2018 Regular Season and Post Season
+- <a href='https://cyberskyline.com/report/MCPVV5PCPM7N'>National Cyber League: Fall 2020 Regular Season <br/></a>
+- National Cyber League: Spring 2018 Regular Season <br/>
+- National Cyber League: Spring 2018 Post Season
+
+[2020NCLReport]: https://cyberskyline.com/report/MCPVV5PCPM7N
 
 <h2> 🤳 Connect with me:</h2>
 
