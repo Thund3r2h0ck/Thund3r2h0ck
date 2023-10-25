@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Current Cybersecurity Projects:</h2>
 
-- <a href='https://github.com/Thund3r2h0ck/MicrosoftSentinelHomeLab'><b>Microsoft Sentinel Home Lab</b></a>
-  
+- <a href='https://github.com/Thund3r2h0ck/MicrosoftSentinelHomeLab'><b>Creating a Microsoft Sentinel Home Lab</b></a>
 
 <h2> 📄 Certifications</h2>
 
@@ -18,6 +17,8 @@ Certificate ID: C4LG6
 - National Cyber League: Spring 2018 Post Season
 
 [2020NCLReport]: https://cyberskyline.com/report/MCPVV5PCPM7N
+
+<h2>🖥️ Completed Projects</h2>
 
 <h2> 🤳 Connect with me:</h2>
 
