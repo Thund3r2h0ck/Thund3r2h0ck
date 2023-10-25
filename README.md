@@ -1,9 +1,12 @@
 <h1>Hi, I'm Mark! <br/> <a href="https://www.linkedin.com/in/markrufin/">Service Desk Technician</a></h1>
 
-<h2>👨‍💻 Current Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <a href='https://github.com/Thund3r2h0ck/MicrosoftSentinelHomeLab'><b>Creating a Microsoft Sentinel Home Lab</b></a>
-- <b>Setting up a Kali Linux VM (VMWare)</b>
+- <b>Microsoft Azure</b>
+  - <a href='https://github.com/Thund3r2h0ck/MicrosoftSentinelHomeLab'>Creating a Microsoft Sentinel Home Lab</a>
+
+- <b>Kali Linux</b>
+  - Setting up a Kali Linux VM (VMWare)
 
 <h2> 📄 Certifications</h2>
 
