@@ -6,7 +6,7 @@
   - <a href='https://github.com/Thund3r2h0ck/MicrosoftSentinelHomeLab'>Creating a Microsoft Sentinel Home Lab</a>
 
 - <b>Kali Linux</b>
-  - Setting up a Kali Linux VM (VMWare)
+  - <a href='https://github.com/Thund3r2h0ck/KaliLinuxLab'>Setting up a Kali Linux VM (VMWare)</a>
 
 <h2> 📄 Certifications</h2>
 
