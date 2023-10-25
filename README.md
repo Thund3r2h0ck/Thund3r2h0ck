@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mark! <br/> <a href="https://www.linkedin.com/in/markrufin/">Service Desk Technician</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Current Cybersecurity Projects:</h2>
 - <a href='https://github.com/Thund3r2h0ck/MicrosoftSentinelHomeLab'><b>Microsoft Sentinel Home Lab</b></a>
   
 
