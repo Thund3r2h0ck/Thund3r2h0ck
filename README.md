@@ -8,6 +8,12 @@
 - <b>Kali Linux</b>
   - <a href='https://github.com/Thund3r2h0ck/KaliLinuxLab'>Setting up a Kali Linux VM (VMWare)</a>
 
+- <b>TryHackMe</b>
+  - SOC Level 1 Career Path
+
+- <b>HackTheBox</b>
+  - Starting Point Tier 0 Vitual Machines
+
 <h2> 📄 Certifications</h2>
 
 - <a href='https://www.credly.com/badges/771e50b2-a5ad-4fad-b01c-bb0f98da25e4/linked_in_profile'>CompTIA Security+</a><br/><br/>
