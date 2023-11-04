@@ -13,6 +13,11 @@
 
 - <b>HackTheBox</b>
   - Starting Point Tier 0 Vitual Machines
+ 
+<h2>🤖 Programming Projects:</h2>
+
+- 🐍 <b>Python<b>
+  - Variables and Input Refresher
 
 <h2> 📄 Certifications</h2>
 
