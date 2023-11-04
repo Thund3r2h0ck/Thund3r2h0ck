@@ -17,7 +17,7 @@
 <h2>🤖 Programming Projects:</h2>
 
 - 🐍 <b>Python<b>
-  - <a href='https://github.com/Thund3r2h0ck/PythonVariableRefresher'>Variables and Input Refresher</a>
+  - <a href='https://github.com/Thund3r2h0ck/PythonVariableRefresher'>Variables Refresher</a>
 
 <h2> 📄 Certifications</h2>
 
