@@ -1,4 +1,5 @@
-<h1>Hi, I'm Mark! <br/> <a href="https://www.linkedin.com/in/markrufin/">Service Desk Technician</a></h1>
+<h1><img src="https://tryhackme-badges.s3.amazonaws.com/Thund3r5h0ck.png" alt="TryHackMe"><br/>Hi, I'm Mark! <br/> <a href="https://www.linkedin.com/in/markrufin/">Service Desk Technician</a></h1>
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
