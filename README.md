@@ -39,4 +39,4 @@ Certificate ID: C4LG6
 
 [<img align="left" alt="<Mark Rufin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/mrufin
+[linkedin]: https://linkedin.com/in/markrufin
